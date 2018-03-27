@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lab4</string>
+    <string name="title">Calculate Standard Weight</string>
+    <string name="gender">Gender:</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="height">Height:</string>
+    <string name="feet">feet</string>
+    <string name="inch">inches</string>
+    <string name="calc">Calculate</string>
+</resources>

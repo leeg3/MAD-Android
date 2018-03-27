@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hello_WIT_Mobile_App</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_wit">Hello Wentworth!</string>
+</resources>

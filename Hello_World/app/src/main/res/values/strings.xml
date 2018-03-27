@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Hello_World</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- exercise -->
+
+    <string name="action_addfriend">Add Friend</string>
+    <string name="action_aboutme">About Me</string>
+    <string name="hello_WIT_mobile">Hello WIT Mobile App</string>
+</resources>

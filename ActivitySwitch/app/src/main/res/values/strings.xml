@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ActivitySwitch</string>
+    <string name="activity1_text">This is Activity 1</string>
+    <string name="activity1_button">Go to Activity 2</string>
+
+    <string name="activity2_text">This is Activity 2</string>
+    <string name="activity2_button">Go to Activity 1</string>
+</resources>
